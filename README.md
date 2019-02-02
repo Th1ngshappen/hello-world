@@ -1,4 +1,4 @@
 # hello-world
 
 Hey!
-Look forward for coding for open source!
+Look forward to code for open source!
