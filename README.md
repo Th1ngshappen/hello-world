@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+
+Hey!
+Look forward to code for open source!
